@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nawaftahir 
-- 👀 I’m interested in ...Cybersecurity 
+- 👀 I’m interested in ...Cybersecurity/Development
 - 🌱 I’m currently learning ...Web Development
-- 💞️ I’m looking to collaborate on ...Web Development
 - 📫 How to reach me ...nawaftahir47@gmail.com
 
 <!---
